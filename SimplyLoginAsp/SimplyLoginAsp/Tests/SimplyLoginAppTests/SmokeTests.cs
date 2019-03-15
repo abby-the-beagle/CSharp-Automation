@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using NUnit.Framework;
 using System.Net;
 
@@ -22,6 +18,20 @@ namespace SimplyLoginAppTests
 
             // Execution
             WebRequest request = WebRequest.Create(defaultUrl);
+            WebResponse response = request.GetResponse();
+
+            // Validation
+            Assert.NotNull(response);
+        }
+
+        [Test]
+        public void VerifyAboutPageAccessible()
+        {
+            // Initialize
+            String aboutUrl = "http://localhost:19946/About.aspx";
+
+            // Execution
+            WebRequest request = WebRequest.Create(aboutUrl);
             WebResponse response = request.GetResponse();
 
             // Validation
