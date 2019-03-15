@@ -1,0 +1,199 @@
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\SimplyLoginAsp.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\SimplyLoginAsp.pdb
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\Antlr3.Runtime.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.Core.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\EntityFramework.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\System.Web.Optimization.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\System.Web.Providers.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\WebGrease.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\EntityFramework.xml
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.Core.xml
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.csprojResolveAssemblyReference.cache
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.dll
+C:\Users\Hansel\Desktop\C-Sharp Automation\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.pdb
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\SimplyLoginAsp.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\SimplyLoginAsp.pdb
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\Antlr3.Runtime.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.Core.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\EntityFramework.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\System.Web.Optimization.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\System.Web.Providers.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\WebGrease.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\EntityFramework.xml
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.Core.xml
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\hanon\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\hanon\Desktop\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.csprojResolveAssemblyReference.cache
+C:\Users\hanon\Desktop\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.dll
+C:\Users\hanon\Desktop\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.pdb
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\SimplyLoginAsp.dll.config
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\SimplyLoginAsp.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\SimplyLoginAsp.pdb
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\Antlr3.Runtime.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.Core.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\EntityFramework.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\System.Web.Optimization.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\System.Web.Providers.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\WebGrease.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\EntityFramework.xml
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.Core.xml
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.csprojResolveAssemblyReference.cache
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.dll
+C:\Users\hanse\Desktop\C-Sharp Automation - Spring 2017\Day 8 Exercises\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.pdb
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\SimplyLoginAsp.dll.config
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\SimplyLoginAsp.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\SimplyLoginAsp.pdb
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\Antlr3.Runtime.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.Core.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\EntityFramework.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\System.Web.Optimization.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\System.Web.Providers.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\WebGrease.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\EntityFramework.xml
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.Core.xml
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.csprojResolveAssemblyReference.cache
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.dll
+C:\Users\hansel.ong\Desktop\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.pdb
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\SimplyLoginAsp.dll.config
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\SimplyLoginAsp.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\SimplyLoginAsp.pdb
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\Antlr3.Runtime.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.Core.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\EntityFramework.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\System.Web.Optimization.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\System.Web.Providers.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\WebGrease.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\EntityFramework.xml
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.Core.xml
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.csprojAssemblyReference.cache
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.csproj.CoreCompileInputs.cache
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.csproj.CopyComplete
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.dll
+C:\Users\hansel.ong\Downloads\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.pdb
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\SimplyLoginAsp.dll.config
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\SimplyLoginAsp.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\SimplyLoginAsp.pdb
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Antlr3.Runtime.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.Core.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\EntityFramework.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\EntityFramework.SqlServer.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Newtonsoft.Json.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\System.Web.Optimization.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\System.Web.Providers.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\WebGrease.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Mono.Math.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Antlr3.Runtime.pdb
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.Core.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\EntityFramework.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\EntityFramework.SqlServer.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Newtonsoft.Json.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\System.Web.Optimization.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\System.Web.Providers.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\bin\Mono.Math.xml
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.csproj.CoreCompileInputs.cache
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.csproj.CopyComplete
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.dll
+C:\Users\eka.tjung\Desktop\C#Automation\In-class Exercises\Day 7\SimplyLoginAsp - VS2017\SimplyLoginAsp\obj\Debug\SimplyLoginAsp.pdb
