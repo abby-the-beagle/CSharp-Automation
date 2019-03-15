@@ -1,4 +1,2 @@
 This is demo project 2 file.
-
-This was changed directly on git.
-On-Git Change #2
+Local Change
