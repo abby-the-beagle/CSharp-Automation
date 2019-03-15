@@ -4,4 +4,8 @@ Someone else edit this.
 
 This change is made locally.
 
+<<<<<<< HEAD
 Local Change #2
+=======
+On-Git Change!
+>>>>>>> f5d00b26d5b9f106a3a992d994ec8992826ed8ac
